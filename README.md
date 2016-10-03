@@ -1,3 +1,4 @@
+credit: [niceandserious](https://github.com/niceandserious/crafty-vagrant)
 # Crafty Vagrant
 
 A neat starting point / development environment for [Craft](http://buildwithcraft.com/)-based projects, with [Vagrant](https://www.vagrantup.com/) configured and ready to go, [Gulp](http://gulpjs.com/) set up to take care of things like rendering Sass, bundling Javascript, minifying CSS and images, and asset-syncing, [Neat](http://neat.bourbon.io/) for elegant, semantic grid layouts, and a couple of shell scripts to simplify installing / restoring the database from backup.
